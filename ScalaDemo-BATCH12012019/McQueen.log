@@ -1,0 +1,3 @@
+[INFO] 2019-02-04 18:35:00,438 com.apple.platform.mcqueen.service.McQueenClient main - Command :--list
+[INFO] 2019-02-04 18:35:01,872 com.apple.platform.mcqueen.service.McQueenClient listBuketObjects - bucket:GBIHadoopPlatform
+[INFO] 2019-02-04 18:35:02,185 com.apple.platform.mcqueen.service.McQueenClient listBuketObjects - bucket:GBI_Hadoop_Platform
